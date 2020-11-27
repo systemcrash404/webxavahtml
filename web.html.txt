@@ -1,0 +1,34 @@
+<html>
+<h1>Xava</h1>
+<body>Hi,and welcome to the Xava discord bot website!</body>
+<p>The new discord-bot (with a little secret)<p> 
+ <head>
+        <style type='text/css'>
+            
+        </style>
+    </head>
+    <body>
+        
+        <a href='https://discord.com/oauth2/autorize?client_id=767483463686815804&scope=bot&permissions=2147483647' class='button'><button>Invite me to your server!</button></a>
+        <p>
+            <hr>
+        <p>
+        
+    </body>
+</html>
+<p>HI!Nice that you're here!I'm the Xava bot.
+I (and my owner) like to program. AAAAAND COOKIES!!!</p>
+</p><button>Satisfying</button></p>
+<p><em>Discord</em></p>
+<img src="https://images.app.goo.gl/a3HhSv1RTnBWumMz7">
+
+ <style type='text/css'>
+            
+        </style>
+    </head>
+    <body>
+        
+        <a href='' class='button'><button>Commands</button></a>
+        <p>
+            <hr>
+        <p>
